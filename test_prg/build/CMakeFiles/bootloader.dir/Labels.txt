@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Embedded/esp/test_prg/build/CMakeFiles/bootloader
+C:/Embedded/esp/test_prg/build/CMakeFiles/bootloader.rule
+C:/Embedded/esp/test_prg/build/CMakeFiles/bootloader-complete.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Embedded/esp/test_prg/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
