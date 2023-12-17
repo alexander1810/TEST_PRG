@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "test_prg",
-    "project_version":    "1",
+    "project_version":    "0b12b3c-dirty",
     "project_path":       "C:/Embedded/esp/test_prg",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Embedded/esp/test_prg/build",
